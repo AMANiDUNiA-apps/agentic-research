@@ -12,7 +12,7 @@ free models execute).
 | Report | Topic | Status |
 |--------|-------|--------|
 | [free-llm-verification](reports/2026-07-free-llm-verification.md) | Which free models on OpenRouter actually respond (catalog vs. reality) | ✅ |
-| llm-efficiency | Energy per token, tokens-per-watt, environmental footprint | 🔄 in progress |
+| [llm-efficiency](reports/2026-07-llm-efficiency.md) | Energy per token, tokens-per-watt, environmental footprint | ✅ |
 | [bm25-rag](reports/2026-07-bm25-rag.md) | BM25 vs. dense embeddings for RAG retrieval | ✅ |
 
 ## Method
